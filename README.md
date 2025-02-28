@@ -10,7 +10,7 @@ This project documents a penetration test conducted on the networks **10.6.6.0/2
 4. **PCAP File Analysis** - Extracting useful data from a network capture.
 
 ## Tools Used
-- **SQLMap** for SQL Injection
+- **DVWA** for SQL Injection
 - **Nmap** for scanning
 - **Metasploit** for exploits
 - **Wireshark** for PCAP analysis
