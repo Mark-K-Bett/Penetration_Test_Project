@@ -11,7 +11,7 @@ This project documents a penetration test conducted on the networks **10.6.6.0/2
 
 ## Tools Used
 - **DVWA** for SQL Injection
-- **Nmap** for scanning
+- **Nikto** for scanning
 - **Metasploit** for exploits
 - **Wireshark** for PCAP analysis
 
